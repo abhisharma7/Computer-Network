@@ -2,8 +2,7 @@
 
 # Module Used:
 
-Socket \n
-Httplib
+Socket and Httplib
 
 
 # Programming Language:
